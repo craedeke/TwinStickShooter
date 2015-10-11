@@ -10,6 +10,6 @@ public class MyScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+        print("Created and additional secret.");
 	}
 }
